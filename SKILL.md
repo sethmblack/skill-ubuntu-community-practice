@@ -3,8 +3,8 @@ name: ubuntu-community-practice
 description: 'Assess and build genuine community through Desmond Tutu''s ubuntu philosophy: "I am because we are." Transform isolation into interdependence and collections of individuals into true communities.'
 license: MIT
 metadata:
-  version: 1.0.5241
   author: sethmblack
+  version: 1.0.5242
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
